@@ -43,7 +43,7 @@ API предоставляет следующие возможности:
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com/sniki-ld/api_final_yatube.git
+   git clone https://github.com/gosh1ky/api_final_yatube
    ```
 
 2. **Перейдите в директорию проекта:**
